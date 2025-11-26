@@ -1,0 +1,1 @@
+print("otus #1")
